@@ -1,5 +1,9 @@
 # Student Dropout Prediction Analysis
 
+Developed by Maia Munich. For questions, reach out via maia.munich@gmail.com
+
+Can we predict which college students are at risk of dropping out, before it's too late? This project applies machine learning to academic, demographic, and financial data from 4,424 students to identify at-risk populations and inform early intervention strategies.
+
 ## Project Overview
 
 This project presents a comprehensive analysis of student dropout prediction using machine learning techniques. The analysis aims to identify key factors that influence student retention and academic success in higher education institutions, providing actionable insights for educational policy and intervention strategies.
@@ -190,14 +194,5 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 - Confusion matrix analysis for detailed performance assessment
 - ROC curve analysis for threshold optimization
 
-## 👥 Contributing
-
-This project was developed as part of CISC4631 coursework. For questions or contributions, please refer to the academic guidelines and course requirements.
-
-## 📄 License
-
-This project is developed for academic purposes as part of CISC4631 coursework. Please ensure compliance with academic integrity policies when using or referencing this work.
-
----
 
 **Note**: This analysis provides insights for educational research and policy development. All findings should be interpreted within the context of the specific institution and student population studied.
